@@ -1,5 +1,5 @@
 # Welcome to Blueberry Technologies
-We are a Technology Company focused on getting things done right the first time.
+We are a small group of enthusiasts who are dedicated to providing quality Open Source projects.
 
 To learn more, please visit our website at https://blueberry.dev
 
